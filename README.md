@@ -18,11 +18,11 @@ Built with **React (frontend)** + **Flask (backend)** + **Hugging Face API** fal
 
 ## 📂 Project Structure
 ```
-
 mini-ai-chatbot/
-│── backend/      # Flask backend
-│── frontend/     # React frontend
-│── README.md     # Project guide
+│── backend/ # Flask backend
+│── frontend/ # React frontend
+│── README.md # Project guide
+
 
 ````
 
