@@ -69,6 +69,3 @@ Runs on: **[http://localhost:3000](http://localhost:3000)**
 * Knowledge base can be extended easily.
 
 ```
-
-👉 Sir, do you want me to **write the exact GitHub push commands** (step-by-step, copy-paste ready) so you can upload your code cleanly in one go?
-```
