@@ -3,7 +3,7 @@
 # 🤖 Mini AI Chatbot
 
 A simple web-based AI chatbot that answers professional questions.  
-Built with **React (frontend)** + **Flask (backend)** + **Hugging Face API** fallback.
+Built with *React (frontend)* + *Flask (backend)* + *OPENAI API* fallback.
 
 ---
 
