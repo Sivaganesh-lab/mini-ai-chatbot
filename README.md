@@ -67,5 +67,3 @@ Runs on: **[http://localhost:3000](http://localhost:3000)**
 * OPENAI free API has slow first response (cold start).
 * Requires internet for AI fallback.
 * Knowledge base can be extended easily.
-
-```
